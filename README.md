@@ -10,6 +10,7 @@ My goal is to create a game with all new experiences and mechanics using nostalg
 * 253 Pokémon, including some new species & evolutions
 * 47 new moves (hopefully with new and unique animations in the future)
 * 60 TMs , Move Tutors, & Move Reminders
+* The HM08 Dive will be making an appearence for more places to explore, there will also be a new HM based off the Gen 5 move Incinerate
 * Mechanics from later Gens, including the Fairy type, Physical/Special split, unlimited TMs, Running Shoes
 * New maps of original creations by our team. Also HG/SS devamps for post-game
 * New characters, some familar, some new, and others. Some Trainers will even be updated with better artworks
