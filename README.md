@@ -1,46 +1,23 @@
-# Pokémon Crystal [![Build Status][travis-badge]][travis]
+# Pokémon: The Visual Novel
 
-This is a disassembly of Pokémon Crystal.
+This is a custom Pokémon ROM Hack based on the Pokémon Crystal disassembly.
 
-It builds the following ROMs:
+My goal is to create a game with all new experiences and mechanics using nostalgia and also modern means. It fixes bugs, takes into account the official game changes since 2001, and adds some new ideas of my own. Many features restore what was removed from R/B/Y, or original to Gen 3 and later games.
 
-- Pokemon - Crystal Version (UE) (V1.0) [C][!].gbc `sha1: f4cd194bdee0d04ca4eac29e09b8e4e9d818c133`
-- Pokemon - Crystal Version (UE) (V1.1) [C][!].gbc `sha1: f2f52230b536214ef7c9924f483392993e226cfb`
-- Pokemon - Crystal Version (A) [C][!].gbc `sha1: a0fc810f1d4e124434f7be2c989ab5b5892ddf36`
+## Features
+* An all new mechanic, You've heard of Pokemon Amie, now get ready for "Trainer Skinship!" Its a all new mechanic apart from any other GBC that allows you to date specific trainers for benefits on and outside the battlefield.
+* All new region, all new story, and a Johto post-game
+* 253 Pokémon, including some new species & evolutions
+* 47 new moves (hopefully with new and unique animations in the future)
+* 60 TMs , Move Tutors, & Move Reminders
+* Mechanics from later Gens, including the Fairy type, Physical/Special split, unlimited TMs, Running Shoes
+* New maps of original creations by our team. Also HG/SS devamps for post-game
+* New characters, some familar, some new, and others. Some Trainers will even be updated with better artworks
+* An improved level curve with steadily increasing challenges throughout the game
+* Music and graphics devamped from other versions and also new music and graphics to enjoy
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
+### Disscussion
+Feel free to join our discord here: https://discord.gg/GCHBrTa
 
-## See also
-
-- [**FAQ**](FAQ.md)
-- [**Documentation**][docs]
-- [**Wiki**][wiki] (includes [tutorials][tutorials])
-- **Discord:** [pret][discord]
-- **IRC:** [freenode#pret][irc]
-
-Other disassembly projects:
-
-- [**Pokémon Red/Blue**][pokered]
-- [**Pokémon Yellow**][pokeyellow]
-- [**Pokémon Gold**][pokegold]
-- [**Pokémon Pinball**][pokepinball]
-- [**Pokémon TCG**][poketcg]
-- [**Pokémon Ruby**][pokeruby]
-- [**Pokémon Fire Red**][pokefirered]
-- [**Pokémon Emerald**][pokeemerald]
-
-[pokered]: https://github.com/pret/pokered
-[pokeyellow]: https://github.com/pret/pokeyellow
-[pokegold]: https://github.com/pret/pokegold
-[pokepinball]: https://github.com/pret/pokepinball
-[poketcg]: https://github.com/pret/poketcg
-[pokeruby]: https://github.com/pret/pokeruby
-[pokefirered]: https://github.com/pret/pokefirered
-[pokeemerald]: https://github.com/pret/pokeemerald
-[docs]: https://pret.github.io/pokecrystal/
-[wiki]: https://github.com/pret/pokecrystal/wiki
-[tutorials]: https://github.com/pret/pokecrystal/wiki/Tutorials
-[discord]: https://discord.gg/6EuWgX9
-[irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
-[travis]: https://travis-ci.org/pret/pokecrystal
-[travis-badge]: https://travis-ci.org/pret/pokecrystal.svg?branch=master
+#### Release Date
+Unknown, don't ask.
